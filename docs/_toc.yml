@@ -5,4 +5,4 @@ format: jb-book
 root: index
 chapters:
   sections:
-  - file: quantum_espresso
+  - file: new_in
