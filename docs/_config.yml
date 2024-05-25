@@ -8,3 +8,10 @@ baseurl: "/write-the-docs"
 # Markdown parser and theme settings
 markdown: kramdown
 theme: minima
+
+# Book settings
+# Learn more at https://jupyterbook.org/customize/config.html
+
+title: Quantum espresso
+author: Mohan Giri
+logo: logo.jpg
