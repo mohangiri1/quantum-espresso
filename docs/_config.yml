@@ -1,6 +1,6 @@
 # Metadata for the site header and footer
-title: My website
-description: A website made with GitHub Pages
+#title: My website
+#description: A website made with GitHub Pages
 
 # Set the production website URL when previewing
 baseurl: "/write-the-docs"
